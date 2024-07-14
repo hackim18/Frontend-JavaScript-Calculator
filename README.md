@@ -119,6 +119,10 @@ Pressing an operator immediately following = should start a new calculation base
 
 The calculator should adhere to the formula/logic order of operations, ensuring calculations follow standard mathematical precedence.
 
+## Credits
+
+Project inspired by FreeCodeCamp JavaScript Calculator.
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
